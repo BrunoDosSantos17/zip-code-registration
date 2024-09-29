@@ -1,13 +1,12 @@
-# Prova Emiteaí
+# Front-end
 
 Passos necessários para execução:
 
-Realizar o restore do arquivo prova.sql que está compactado como prova.rar na raiz deste repositório.
+ - Executa npm install.
+ - Abrir o cmd ou powershell se estiver utilizando windows, caso estiver utilizando linux abrir o terminal
+ - Executar a aplicação com npm start.
 
-## Executar aplicação
-
-### `./mvnw spring-boot:run`
-
-Aplicação ficará disponível em
-[http://localhost:8080](http://localhost:8080)
+## Informação
+A aplicação irá executar na porta 
+[http://localhost:3000](http://localhost:3000)
 
